@@ -1,6 +1,5 @@
 .game-grid {
   display: grid;
-  height: 75%;
   width: 50%;
   margin: 0 auto;
   grid-template-columns: 33% 33% 33%;
@@ -9,5 +8,10 @@
 
 .box {
   border: 1px solid black;
-  height: 400px;
+  height: 21em;
+}
+
+.active-box {
+  background-image: url(assets/visual/pic1.png);
+  background-size: 100% 100%;
 }
