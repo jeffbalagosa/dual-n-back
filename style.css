@@ -34,8 +34,10 @@
 
 .match-lc-a {
   background-color: blue;
+  color: white;
 }
 
 .match-rc-l {
   background-color: red;
+  color: white;
 }
